@@ -1,13 +1,13 @@
 # Restaurant
 
-<a href="m1"><img src="https://user-images.githubusercontent.com/94074275/152643623-d5244ac7-fe7d-4199-97d1-c3699dad2b16.jpg" align="center" height="600" width="350" ></a>
-<a href="Screenshot_2022-02-04-23-04-48-71"><img src="https://user-images.githubusercontent.com/94074275/152643630-bdff2e53-1885-47c0-85e1-4fafe245be88.jpg" align="left" height="600" width="350" ></a>
+<a href="m1"><img src="https://user-images.githubusercontent.com/94074275/152643623-d5244ac7-fe7d-4199-97d1-c3699dad2b16.jpg" align="left" height="600" width="350" ></a>
+<a href="Screenshot_2022-02-04-23-04-48-71"><img src="https://user-images.githubusercontent.com/94074275/152643630-bdff2e53-1885-47c0-85e1-4fafe245be88.jpg" align="right" height="600" width="350" ></a>
 
-<a href="Screenshot_2022-02-04-23-04-58-63"><img src="https://user-images.githubusercontent.com/94074275/152643638-5ecc22bf-cc1f-4857-8408-8e38b8538ecf.jpg" align="right" height="600" width="350" ></a>
+<a href="Screenshot_2022-02-04-23-04-58-63"><img src="https://user-images.githubusercontent.com/94074275/152643638-5ecc22bf-cc1f-4857-8408-8e38b8538ecf.jpg" align="left" height="600" width="350" ></a>
 
-<a href="Screenshot_2022-02-04-23-02-52-92"><img src="https://user-images.githubusercontent.com/94074275/152643625-02e71d8b-89b9-4af6-bdd8-ec9f85e34893.jpg" align="left" height="600" width="350" ></a>
+<a href="Screenshot_2022-02-04-23-02-52-92"><img src="https://user-images.githubusercontent.com/94074275/152643625-02e71d8b-89b9-4af6-bdd8-ec9f85e34893.jpg" align="right" height="600" width="350" ></a>
 
-<a href="Screenshot_2022-02-04-23-03-08-14"><img src="https://user-images.githubusercontent.com/94074275/152608295-ddab3d7c-411e-4a17-8720-c7553ce7af07.jpg" align="right" height="600" width="350" ></a>
+<a href="Screenshot_2022-02-04-23-03-08-14"><img src="https://user-images.githubusercontent.com/94074275/152608295-ddab3d7c-411e-4a17-8720-c7553ce7af07.jpg" align="left" height="600" width="350" ></a>
 
 <a href="Screenshot_2022-02-04-22-54-44-12"><img src="https://user-images.githubusercontent.com/94074275/152644471-e34754d2-ab5c-428c-a083-11723ddc6128.jpg" align="left" height="600" width="350" ></a>
 
