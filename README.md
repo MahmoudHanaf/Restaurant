@@ -1,6 +1,6 @@
 # Restaurant
 Resaurant
-![Screenshot_2022-02-04-23-03-08-14](https://user-images.githubusercontent.com/94074275/152608295-ddab3d7c-411e-4a17-8720-c7553ce7af07.jpg | width=200) 
+![Screenshot_2022-02-04-23-03-08-14](https://user-images.githubusercontent.com/94074275/152608295-ddab3d7c-411e-4a17-8720-c7553ce7af07.jpg | width=250) 
 ![m2](https://user-images.githubusercontent.com/94074275/152608643-87a02e81-db9c-48ee-8164-623a5a1b7be5.jpg)
 ![Screenshot_2022-02-04-22-57-18-27](https://user-images.githubusercontent.com/94074275/152608903-9e5a789c-3789-4c55-975f-c97a16736abe.jpg)
 ![Screenshot_2022-02-04-22-58-04-89](https://user-images.githubusercontent.com/94074275/152609082-e770f3ad-2dc8-4ec3-9da9-3e216402a5c4.jpg)
