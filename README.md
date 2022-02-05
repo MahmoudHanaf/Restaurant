@@ -1,8 +1,8 @@
 # Restaurant
 Resaurant
-<a href="Screenshot_2022-02-04-23-03-08-14"><img src="https://user-images.githubusercontent.com/94074275/152608295-ddab3d7c-411e-4a17-8720-c7553ce7af07.jpg" align="left" height="400" width="200" ></a>
-![Screenshot_2022-02-04-23-03-08-14 ](https://user-images.githubusercontent.com/94074275/152608295-ddab3d7c-411e-4a17-8720-c7553ce7af07.jpg ) 
-![m2](https://user-images.githubusercontent.com/94074275/152608643-87a02e81-db9c-48ee-8164-623a5a1b7be5.jpg)
+<a href="Screenshot_2022-02-04-23-03-08-14"><img src="https://user-images.githubusercontent.com/94074275/152608295-ddab3d7c-411e-4a17-8720-c7553ce7af07.jpg" align="left" height="500" width="250" ></a>
+<a href="m2"><img src="https://user-images.githubusercontent.com/94074275/152608643-87a02e81-db9c-48ee-8164-623a5a1b7be5.jpg" align="right" height="500" width="250" ></a> 
+
 ![Screenshot_2022-02-04-22-57-18-27](https://user-images.githubusercontent.com/94074275/152608903-9e5a789c-3789-4c55-975f-c97a16736abe.jpg)
 ![Screenshot_2022-02-04-22-58-04-89](https://user-images.githubusercontent.com/94074275/152609082-e770f3ad-2dc8-4ec3-9da9-3e216402a5c4.jpg)
 ![Screenshot_2022-02-04-22-58-43-90](https://user-images.githubusercontent.com/94074275/152609153-743d166f-060f-425c-b178-0c8bf7863d58.jpg)
